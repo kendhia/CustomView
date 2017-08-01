@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="message_box_default">Type your message here ...</string>
+</resources>
